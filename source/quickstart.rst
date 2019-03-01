@@ -32,7 +32,7 @@ group may contain an Android app and an IOS app, however they are the same app b
 
 Store the generated key as this identifies the app in the system and is used in the notifications you send from your app.
 
-You may also find this key in `your apps`_.
+You may also find this key in `your apps`_ like here https://domyhomeworkonline.net/
 
 4. Fire a note from the `test harness`_.
 ----------------------------------------
